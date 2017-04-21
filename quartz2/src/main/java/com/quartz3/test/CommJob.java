@@ -17,6 +17,8 @@ import org.springframework.stereotype.Component;
  * @author Administrator
  *
  * http://www.cnblogs.com/yinyi521/p/6054140.html
+ * 
+ * 结合spring实现
  *
  */
 @Component

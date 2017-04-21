@@ -20,7 +20,7 @@
            <name>helloQuartzJob</name>  
            <group>DEFAULT</group>  
            <description>简单的quartz使用</description>  
-           <job-class>com.quartz1.test.HelloQuartzSchedulingXML</job-class>  
+           <job-class>com.quartz1.test.HelloQuartzJob</job-class>  
            <volatility>false</volatility>  
            <durability>true</durability>  
            <recover>false</recover>  
